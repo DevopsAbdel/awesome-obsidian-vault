@@ -1,0 +1,35 @@
+name: Update README Vault Index
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README vault index
+        run: bash scripts/update-readme-vaults.sh
+
+      - name: Commit changes (if any)
+        run: |
+          if git diff --quiet; then
+            echo "No README changes needed."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): update vault index [skip ci]"
+          git push
