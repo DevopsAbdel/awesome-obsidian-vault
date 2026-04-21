@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Journal
+    filters:
+      and:
+        - file.folder.contains("05 Journal")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - file.path
+    columnSize:
+      file.name: 162
+      file.ctime: 197
+      file.mtime: 214

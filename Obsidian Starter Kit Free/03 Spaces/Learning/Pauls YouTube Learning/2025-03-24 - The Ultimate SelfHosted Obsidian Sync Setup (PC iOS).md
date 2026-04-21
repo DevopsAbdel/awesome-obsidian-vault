@@ -1,0 +1,558 @@
+---
+Date-Added: 2025-08-29T23:15:56.647Z
+Date-Created: 2025-03-24
+Date-Published: 2025-03-24
+Tags:
+  - "#YouTube"
+  - "#My/Youtube-Channel/Archive"
+  - "#My/N8N/Automation"
+cssclasses:
+  - table-wide
+Title: The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)
+Author: Paul Dickson
+URL: https://www.youtube.com/watch?v=J-YO7rn8ZEQ
+Thumbnail: https://i.ytimg.com/vi/J-YO7rn8ZEQ/maxresdefault.jpg
+Duration: 46:37
+Stats-Views: "21920"
+Stats-Likes: "488"
+Stats-Comments: "70"
+Type: Video
+Source: YouTube
+Transcript: Available (Whisper AI)
+Video-ID: J-YO7rn8ZEQ
+Channel-ID: UCkIzFxrhWbf2Crr-BBYtdgw
+Related:
+Status:
+  - Published
+feature: thumbnails/external/5a6d5b1a8c40d29924e4d68752c04baf.jpg
+thumbnail: thumbnails/resized/1b00b073798fbdcb9e3ab3dd61a09ad3_86cf658e.webp
+---
+# The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)
+![The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)](https://i.ytimg.com/vi/J-YO7rn8ZEQ/maxresdefault.jpg)
+
+> **📺 YouTube Video** | **👤 Paul Dickson** | **⏱️ 46:37** | **📅 2025-03-24**
+
+## 📊 Video Stats
+| Metric | Value |
+|-----------|-------|
+| **Views** | 21.9K |
+| **Likes** | 488 |
+| **Comments** | 70 |
+| **Published** | 2025-03-24 |
+| **Duration** | 46:37 (Medium) |
+| **Channel** | [Paul Dickson](https://www.youtube.com/channel/UCkIzFxrhWbf2Crr-BBYtdgw) |
+
+## 📋 Description
+
+> [!info]- Click to expand
+> // Obsidian Starter Vault Downloads
+> Free Kit: https://ko-fi.com/s/33678f10a7 (Free)
+> Pro Kit: https://ko-fi.com/s/c8e544e005 (Donation)
+> Obsidian App: https://obsidian.md/
+> 
+> // Obsidian Beginners Guide Series
+> https://www.youtube.com/playlist?list=PLJJdpQJ7fSkYEMgPf_eLSdhSFyZACsBai
+> 
+> #Obsidian  AI Tools (Subscription)
+> https://www.obsidianaitools.com
+> 
+> // CHAPTERS
+> 00:00 - Intro
+> 00:37 - Sync Tools Overview
+> 02:02 - The Problem with Third Party Sync Providers
+> 04:43 - The Benefits of Syncing Obsidian with Syncthing and Tailscale
+> 05:19 - Syncthing Scenario Overview
+> 17:39 - How to Setup Syncthing on Apple iPhone
+> 24:07 - How to Setup Syncthing on Apple iPad
+> 29:30 - Securing our Syncthing Devices with Tailscale
+> 37:20 - Securing your Apple iPad with Tailscale
+> 40:24 - Securing your Apple iPhone with Tailscale
+> 44:10 - Troubleshooting Syncthing Conflicts
+> 45:44 - Outro
+> 
+> // Description
+> Today I'm exited to show you how to sync your Obsidian Notes between Windows and iOS without relying on Google Drive, iCloud, or OneDrive. We'll be using Syncthing - a powerful self-hosted tool that puts you in complete control of your data.
+> 
+> I'll start by showcasing  how my setup works from my PC to my iPhone and iPad, then I will walk you through the exact steps to configure your own Syncthing server. 
+> 
+> By the end of this video, you'll have a private, secure system for syncing your Obsidian vault anywhere you go.
+> 
+> Join me if you're ready to take back control of your note-syncing
+> 
+> // Required
+> - Syncthing https://syncthing.net/
+> - Mobius Sync Pro iOS https://apps.apple.com/us/app/m%C3%B6bius-sync-pro/id1671184333
+> - Obsidian https://obsidian.md/
+> 
+> // Syncthing Tailscale Script
+> https://github.com/motion2082/Obsidian/blob/main/YouTube/Syncthing/Script.txt
+> 
+> Install Tailscale on Linux with one command
+> curl -fsSL https://tailscale.com/install.sh | sh
+> 
+> These two lines work together to enable network tunneling capabilities within the LXC container. They allow the container to create and use virtual network interfaces, which is essential for running applications that require VPNs, tunnels, or other network virtualisation features.
+> 
+> // Community Feedback
+> Thanks for watching! Now you have everything you need to sync your Obsidian vault using your own Syncthing server - no third-party cloud services required.
+> 
+> If you run into any issues setting up Syncthing, don't hesitate to ask – I'll do my best to help.
+> 
+> If this helped you take control of your note syncing, hit that like button and subscribe for more Obsidian workflows and productivity hacks. 
+> 
+> // Buy me a Coffee
+> https://ko-fi.com/motion2082
+
+## 🔗 Quick Links
+- **🎥 Watch Video:** [The Ultimate Self-Hosted Obsidian Sync Setup (PC & iOS)](https://www.youtube.com/watch?v=J-YO7rn8ZEQ)
+- **📱 Channel Page:** [Paul Dickson](https://www.youtube.com/channel/UCkIzFxrhWbf2Crr-BBYtdgw)
+- **🔗 Share Link:** https://youtu.be/J-YO7rn8ZEQ
+
+## 📚 Chapters
+```
+00:00 - Intro
+00:37 - Sync Tools Overview
+02:02 - The Problem with Third Party Sync Providers
+04:43 - The Benefits of Syncing Obsidian with Syncthing and Tailscale
+05:19 - Syncthing Scenario Overview
+17:39 - How to Setup Syncthing on Apple iPhone
+24:07 - How to Setup Syncthing on Apple iPad
+29:30 - Securing our Syncthing Devices with Tailscale
+37:20 - Securing your Apple iPad with Tailscale
+40:24 - Securing your Apple iPhone with Tailscale
+44:10 - Troubleshooting Syncthing Conflicts
+45:44 - Outro
+```
+
+
+## 📄 Transcript (Whisper AI Generated)
+
+> ✅ **Transcript successfully generated by Whisper AI**
+
+> [!quote]- Click to reveal transcript
+> ```
+> Today I'm going to show you how to sync your obsidian notes between Windows and iOS.
+Without relying on Google Drive, iCloud or OneDrive, we'll be using my solution Sync
+Thing, which is a powerful self-hosted tool that puts you in complete control of your data.
+First I'll demonstrate how my setup works across all my devices, then I'll walk you through
+the exact steps to configure your own Sync Thing server. By the end of this video, you will have
+a private secure system for syncing your obsidian vault anywhere with an internet connection.
+Join me if you're ready to take back control of your note syncing.
+Sync Thing replaces closed source sync and cloud services with something open,
+trustworthy and decentralized. Your data is your data alone and you deserve to choose where
+it's stored and how it's transmitted over the internet. Proxmox allows you to run and
+manage virtual machines and containers. Proxmox provides a web-based interface for easy
+management. This allows you to run multiple operating systems on a single server.
+Mobius Sync Pro is a file synchronization app designed for iOS devices such as iPhones and iPads.
+It leverages the open source sync thing engine to enable secure and efficient synchronization
+of files between iOS devices and other platforms without relying on cloud services.
+TailScale is a mesh VPN service that provides secure and private connections between devices
+and services across different networks. It was founded in 2019 by former Google engineers.
+TailScale has quickly gained popularity as an alternative to traditional VPNs.
+CloudFlayer is a global network designed to improve the security performance and
+reliability of websites and online services. It acts as an intermediatory between your website
+server and your website's visitors. The problem with third-party providers. When I first started
+using Obsidian, I was using my main Windows PC but I also have some iOS devices such as iPhone
+and iPad. When I first started using Obsidian, I investigated ways to sync my files across all of
+these devices. What I found was iOS will only allow you to sync seamlessly with iCloud or Obsidian
+Sync. Obsidian Sync is a paid subscription service and it starts from $4 a month.
+So that reduced my options to iCloud but iCloud only give you a free tier of five gigabytes of
+storage then you have to pay to use additional storage. Your data is also being stored on Apple's
+servers so it's not private. Now you could look at Google Drive which gives you a little bit more
+storage space. You get 15 gigabytes but you can't sync your Google Drive down to your iOS device
+plus it's still stored on Google's servers so your data is not private. So Google Drive won't
+sync with Obsidian iOS. Google Drive is not 100% free or private. Apple iCloud is not 100% free
+or private. Obsidian Sync is not free. It's for US dollars per month. Obsidian needs iCloud
+or Obsidian Sync to sync files to Windows from iOS devices and if we use a CloudFlairs
+tunnel on a layer 7 protocol CloudFlairs can encrypt and decrypt our data which exposes some of our
+data to CloudFlairs. It is generally safe and widely trusted for securing websites but it may not
+be ideal for highly sensitive data or privacy critical applications. So the easiest sync method
+is Obsidian Sync but this comes with a monthly subscription of $4 US dollars. So if
+third party providers cost money and your data is not private what other solutions can we use?
+Well the solution that I've discovered is sync thing with tail scale. Sync thing can be self-hosted
+on a home lab or a PC and you can broadcast your files out to your iOS devices and simply use a
+syncing app to sync those files across to those devices and you can do this through a private
+mesh VPN which is called tail scale. So there's a few benefits to syncing Obsidian with sync thing
+and tail scale. Your files will be end to end encrypted when they're syncing across devices. Your
+devices will work across networks without port folding. There's no cloud storage middleman
+so your data stays private. You can circumnavigate a lot of firewall issues. This is a zero trust
+security model. It has cross-platform compatibility so we'll work with other devices such as Android.
+It's free for personal use and you have complete control over your data. Sync thing scenario overview.
+Sync thing enables peer-to-peer file synchronization across devices. You can use relay servers to
+facilitate an issue discovery when direct connections are unavailable but this isn't the most secure
+method. Sync thing provides direct device to device file synchronization. This ensures private and
+secure data transfer without relying on centralized cloud storage. You can enhance your privacy by
+using a tail scale private network. Sync thing allows you to synchronize files between your devices
+and a network attached storage. This creates a private and controlled backup and sharing solution.
+Combine this with tail scale to make all connections private. Sync thing's untrusted server feature
+allows users to synchronize files to devices or servers while ensuring the data remains encrypted
+and inaccessible to those untrusted devices. How to set up your sync thing file server?
+So before we get started, I highly recommend manually backing up your obsidian vault or you can
+use a free backup software like I do called EZUS to do backup and I've briefly covered how to do
+this in my obsidian troubleshooting restoring vaults video so if you haven't seen that go check it out.
+So I'm going to be installing a sync thing Linux container on Proxmox virtual environment running
+on a mini HP PC. Now if you don't have a home lab or Proxmox running then you can just run
+sync thing on your PC and link that to your obsidian files and then sync your iPad and iPhone to your
+PC and your PC will be the main folder that the iOS devices will be syncing from. So this will make
+a little bit more sense as we progress to the next section of the video. So here I am inside of my
+Proxmox server and I need to create a new Linux container for sync thing so I'm going to have over
+to Proxmox VE helper scripts and I'm going to come up to the top end type in sync thing then I'm
+going to navigate to that page and I'm going to copy the bash install script and I'm going to head back
+to my Proxmox server and go down to my shell and paste in my bash script. That's going to present
+me with my installer so I'm going to say yes and I'm just going to select the default settings.
+We can see the default settings at the top. You'll ask me where I want to store my container template
+just going to select my one terabyte m.2 drive and I'll do the same for my storage pool.
+So this is going to take a few minutes to go download and install sync thing on my Linux container
+1 1 0. If you get any no internet detected errors just hit yes and it will still
+go update and install the container correctly.
+So after a couple of minutes sync thing has installed correctly and it's going to tell me where I
+can access this server. So I'm just going to highlight right click copy and paste this in my notes
+and I'm going to hit the middle mouse button and that's going to open my new sync thing
+Linux container. So you've got to ask me if I want to allow anonymous usage reporting.
+So this just sends data to a graphfana dashboard to tell them what platform you're running
+sync thing on. I don't really want to broadcast that to the dashboard so I'm going to say no.
+And let's go into give me a danger warning and say that I need to update the username and password.
+So to do that hit settings come into GUI. I'm just going to put in admin admin or choose my theme
+as dark because I like to work in dark. Then I'm going to have a look at connections and I'll leave
+everything to default to setup. We'll come back and change these later. I'll go back to general
+and I'm going to change my device name to sync thing server because this is going to be where I'm
+going to host all my obsidian and vault files. So I'll hit save. Then it's going to log me out. So I
+need to log back in with my new username and password. I'm going to go ahead and delete the default
+folder. So left click edit remove and I'll ask if I'm sure I'm going to say yes. I'll get a
+notice warning saying that I shouldn't run privileged or system user. So I'm just going to ignore
+that for now. So then I need to add a folder where I'm going to store my obsidian vote. So I'll
+hit add folder. And I'm going to call this one pause obsidian sync folder. I need to give it a
+unique ID. So I'll just call it pause underscore obsidian underscore vote. And then for the path,
+I'll put it in my home sync thing obsidian files directory on my Linux machine. Under sharing,
+there's no devices to share with yet. There's a tab for file versioning. So I want to control
+how many files I want to keep. So I'm going to select simple file versioning. There is a help
+tab here if you want to learn more about the different versionings. But this one's going to
+store 30 days worth of files. And I'm going to keep five of each. I'll leave the version path
+and clean up into the default. Under advanced, there's a few more advanced settings. We're not
+going to change any of these. But if you want to learn more, there's a couple of links here. So we'll
+just hit save on that. And then we have our stage pause obsidian sync folder. We can see there's
+no files in there at the moment. It's pointing to our home sync thing obsidian files. I've given it
+a folder ID. So what we need to do now is we need to install our first remote device. So that first
+device is going to be my main PC that I use obsidian on all the time. Head over to syncthing.net
+forward slash downloads and download your operating system. I'm running through this on Windows.
+I'm just going to select Intel AMD 64 bit. Once you've installed downloaded and installed sync
+thing, go ahead and launch it. That's going to automatically open up a local host on port 8384.
+Sync thing on your Windows PC. You'll get the same message again. So just hit no. It should detect
+your device name up the top here. Then it's going to tell me to update my username password. So I
+want to come into GUI. And I'm going to change my username and password. I'm going to choose dark theme
+again. I'll leave connections default again during the setup. And we'll come back and set this
+up properly later. So we hit save. Now it's going to log me out. So I'm just going to sign back in
+again. So I'm a default folder again. So I'm going to click edit remove and say yes and get rid
+of my default folder. I want to replace this where my obsidian files are stored. So I'm going to
+hit add folder. I'm going to give it a label. I'm going to call it pause obsidian fault. And I need
+match it to the folder ID on the sync thing server. So I'm going to give it the same folder ID.
+So you can see it must be the same on all devices. And then I want to change my folder path to where
+my obsidian fault is stored. So this will be unique to where you store your files. For me,
+it's on my D drive. Then under sharing, there's no devices to share. I don't need to worry about
+versioning because the sync thing server is doing that for me. And I don't need to change anything
+and advanced or ignore patterns. So I'm just going to hit save. So that's going to show me how many
+files are in my obsidian bolt. So good thing to do here is open up your file explorer and select
+everything except for the ST folder. Just right click hit properties. And you can see that it's
+my vote has 3461 files, 449 folders, which matches the local state here on this device. So I'm
+confident that's correct. So now I've got my PC ready. I've got my sync thing server ready. So
+let's connect my PC to my server. So I'm going to come into the sync thing server. And I'm going to
+select add remote device. And then I'm going to come back over to pause PC, come up to actions,
+show ID. And I'm going to copy this ID. I'm going to paste it over in the device ID. And then I'm
+going to give it a name to match. So I'm going to call this one pause PC. And then under sharing,
+I'm going to share with the pause obsidian sync folder on the server. And under advanced, I'll just
+leave this unchanged for now. And we'll change the address later on when we set up our tail scale
+mesh VPN. So I'll hit save on this one. So you can see that it's showing as disconnected. So let's
+head over to pause PC. And we can see that a new device has been detected, which is our sync
+thing server. So it's going to ask us whether we want to add ignore or dismiss. So I'm going to say
+and it's going to pre fill all those details. And then I want to hit sharing and select my obsidian
+vote on my PC to share with my sync thing server. And then I'll just leave advanced and we'll change
+this later because we just want to set it up for now. So hit save on that. So now you can see that
+it's detected the sync thing server on my PC. And we can see that there is a sync process happening.
+So what it's doing is it scanning my obsidian vote with all my files directories. And it's
+uploading or syncing to the sync thing server. So we can see that 60% complete. So now it's telling me
+that it's up to date. And we can see that it says up to date. And we can check our obsidian sync
+folder. We can see that all of those files and directories have been uploaded to the sync thing
+Linux container folder path, which we set up previously. If you wanted to access and view these
+files on your sync thing server, then I highly recommend downloading win SCP, which will give you
+SFTP access to view those files in your server if you need to. If you don't want to use win SCP,
+what you can do is just head back over to your shell select your Linux container and then just do
+a CD space dot dot LS and then CD, Rome, list the home directory CD sync thing and then CD obsidian
+files. And then I can see all my obsidian folders inside there. And if I CD into my note lab,
+then I can see all my markdown files inside there. So given that I won't be changing any of these
+files on the sync thing server, I usually like to just leave them there as a source of truth.
+Okay, so the next step is to add our iOS devices. Now in order to add our iOS devices, we will need
+a paid app called Mobius sync pro. The good thing about this app is it's a one off payment, so there's
+no subscription fees. You just pay the flat five US dollars and then you have full access to use
+sync thing on your iOS iPhone and iPad. So in my opinion, it's going to save you a lot in the long
+run compared to third party cloud providers. How to set up sync thing on Apple iPhone. So we're now
+going to sync our obsidian bolt down to our iPhone. So the first thing we need to do is head over
+to the app store and download Mobius sync pro. And you will need to also download obsidian on your
+mobile device if you haven't done so already. So open up obsidian and simply select create a vote.
+We're going to skip the obsidian sync option. Give your vote a name on your iPhone. So I'm just
+going to call this one pause obsidian vote. Now if I open up the files app, I can see that my new
+vote is in the folder called obsidian and we can see there's a folder called pull obsidian vote.
+So I'm going to link Mobius sync pro to this folder. So open up Mobius sync pro. Just swipe left,
+hit continue, swipe left again, hit get started. It will probably detect your local network. So just
+hit allow. Now the same process is on your phone similar to what we did on the PC and the sync
+thing server. So tap default folder, hit edit, then remove. And I'm just going to hit yes. And then
+what I want to do is I want to add folder. Now I need to give it a label. I'm going to call this
+one pause obsidian vote. Now the folder ID needs to match the sync thing server. So refer back to
+your sync thing server and type in the exact ID. So in my case, it's pause underscore obsidian
+underscore vote. Now it's going to ask me the folder path. So I'm going to select pick external
+folder. And I'm going to go back and I'm going to navigate down to obsidian. And I'm going to pick
+my obsidian vote, which is empty. And I'm going to hit open. It's going to warn me that I'm attempting
+to synchronize a folder outside of Mobius sync. I'm just going to save proceed. Then under sharing,
+I don't need to select anything. I don't need to change file versioning or do anything under
+advance. I just need to hit save. So now I have my obsidian vote on my iPhone link to Mobius sync.
+So the next thing I need to do is I want to come up to the settings and change the name of my device
+to pause iPhone. I don't need to change the theme. I don't need to change anything in iOS. I'm
+going to keep my connections as they are for now. And I don't need to ignore devices or folders.
+I just need to hit save. So now I have my device set as pause iPhone. So I can add remote device
+then tap on scan QR code. And then it's going to ask me to access the camera. So I'll select allow.
+And then I come into my sync things server, head up to actions select show ID. And we're going to scan
+the QR code. And I'm going to select sharing. And I'm going to select my fault folder on my iPhone
+to share with the sync thing server. I'll leave advanced as it is. And I'm just going to hit save.
+So now if I jump back over to my sync thing server, I can see that I've added a new device called
+pause iPhone. So I'm going to select add device. It's going to pop up this setting here.
+I'm going to leave the address dynamic and we'll change this later. I'm going to share my
+obsidian sync folder with my iPhone. So I'll tick that box there and everything else should have
+filled out with the QR code. So hit save. So now you can see that pause iPhone is added
+as a remote device. And we can see that it is starting the sync process down to pause iPhone.
+I can see on my iPhone that my local files are being updated. And I'm just setting this up
+on my local network before we connect it to our mesh VPN later on.
+So it's probably taken about one to two minutes to sync my obsidian vote onto my iPhone. So
+everything's showing up to date. So let's go open obsidian on my iPhone. If I tap on the side,
+I can see that all my files are appearing. So if I select the cogwheel, I need to change my theme
+to my theme. And I also need to turn on community plugins
+in order for my plugins to show. And the other thing I've noticed is I need to go into core plugins
+and reset my core plugins. So turn off sync in core plugins, turn on slash commands, turn on my
+workspaces, turn on my random note, and anything else that I need. Go back into community plugins
+and turn on community plugins. And that's going to load my theme on my phone. So now I have all my
+community plugins. So then the only thing left to do is to head into appearance and apply any CSS
+snippets. So I'm going to turn on my theme and any other snippets that I'm using. And I'll go check
+my cards. And I can see all my cards notes are inside there. And check my spaces and see all my
+notes are in there. So I've got full access to my obsidian vote on my iPhone. Now if you make
+any changes on your iPhone to sync them back up to your server, you need to simply open Mobius
+Sync again. And that will redet the iPhone and update any changes to your server. How to set up
+sync thing on Apple iPad. So the next step is to set up sync thing on our iPad. Open up the
+app store and download Mobius Sync Pro. We'll also need to download and install obsidian.
+Once obsidian has downloaded and installed, open up obsidian. And we want to create a new vote.
+We're going to ask us to set up sync. We're going to select skip for now. Then we're going to give
+our iPad vote a name. So keep this the same as all my other devices. Always obsidian vote. And
+then we're going to select create a vote. So now I have an empty vote ready to connect to my sync
+thing server. So jump into the Mobius Sync app. We'll be presented with the welcome screen. So just
+swipe left. Right says local network access tap on the continue button. Then we swipe left again.
+And we'll simply tap get started. Make sure you're connected to your local Wi-Fi network. So it can
+see your devices. And we should get a message that says allow Mobius Sync to find devices on
+local networks. And we're just going to select allow tap on the default folder select edit then tap
+remove. It'll say are we sure we want to remove our photo. And we're going to say yes. Then we want
+to add our empty obsidian vote folder where our files will be synced. So I'm selecting add photo.
+Then I'm simply going to pick an external folder. Go back select the obsidian folder. Then select
+pose obsidian vote. Then tap open. It'll warn me that I'm attempting to synchronize a folder
+outside of Mobius Sync. So I'll just proceed at my own risk. You can see that it's pre-labelled
+the folder label as pose obsidian vote. So all I need to do is change the folder ID to match my
+Sync thing server. So jump on to your Sync thing server and enter the folder ID. So mine is pose
+underscore obsidian underscore vote. I don't need to worry about sharing file versioning ignore patterns
+or advance. So just tap save. Now I'm going to tap on add remote device on my iPad. And then over
+on my Sync thing server, I'm going to head up to actions and left click show ID. That's going to
+present my QR code. So then on my iPad I'll touch scan QR code. It's going to ask me for access to
+the camera or select allow. Then I'm going to scan my QR code. So then I'll tap the sharing tab.
+And I'm going to check pose obsidian vote to share my iPad folder with my Sync thing server.
+We'll leave advance for now and we'll come back and change the address later. Tap on save.
+Now head up back over to the Sync thing server and you should see a new device notification.
+So we simply just need to select add device. It's going to pre-populate the device ID and device name.
+Under the sharing tab, ensure that we're sharing the pose obsidian sync folder with our new
+iPad device. Leave the advance tab as is. We'll come back and change the address later on.
+Then go ahead and hit save. So that's going to add our iPad. And we can see that it's going to
+trigger the sync process straight away to sync those files down to our new iPad.
+So our iPad is now fully sync to our sync thing server. So we'll now open obsidian and check
+our vote. If I tap on the left pane, I can see all my obsidian files and folders are appearing.
+I need to open the cogwheel and go down to appearance and change my theme to my preferred
+minimal theme. Then I need to navigate down to core plugins. Check over my core plugins and
+re-enable any core plugins that are disabled by default. So I'll go ahead and enable random note,
+slash commands and workspaces. I'll tap on community plugins and turn on community plugins.
+Then under restricted mode, I'm going to turn on and reload. I'll tap on the left pane again,
+tap on the settings cogwheel. And I'm going to tap on appearance and go down and turn on any CSS
+snippets that I'm using on my main PC. Now for some reason, I need to tap on community plugins
+again and turn on community plugins. And that will go ahead and turn on my community plugins.
+So now I can see I've got my minimal theme enabled with my CSS snippets and all my community
+plugins are turned on. I can see my notes are appearing on the iPad. And if I tap on cards,
+I can see the cards loading. And if I tap on spaces, I can see that my spaces are loading.
+Securing our devices with tailscale. Now that we've set up our sync thing server and connected
+our remote devices, it's time to secure our connections with tailscale. The tailscale is a VPN
+service that will make it easy for us to secure our devices through a private mesh VPN network.
+So to get started, we'll head over to tailscale.com. And we need to select the start connecting
+devices button. This will present you with a signup with your identity provider page. And you
+can select any of the providers here. I'll be using my Google account. So I'll select signup with Google.
+And I'm just going to add my Google account. And that's going to log me into the tailscale admin
+console. So the first thing that I want to do is I want to add my sync thing Linux server. So
+I'll simply go down to where it says add devices to your network. And I'm going to select Linux.
+And all I need to do is copy this kill command where it says install tailscale on Linux. Then
+navigate to your sync thing Linux container and select console. Right click and left click paste
+and then hit enter. That's going to go ahead and install tailscale on our sync thing container.
+Now before we can start the tailscale service and connect it to our tailnet, we need to
+enable network tunneling on our Linux container. So to do that, we'll go up to proxmox and we'll
+go into shell. And I just want you to type in sudo nano x pvelxc the number of your container.com
+and this is going to access the configuration file. Then on the last line, we're going to paste
+two lines of code. And this is going to allow us to create and use a virtual network interface
+with this Linux container. So we hit control x then yes to save. We need to reboot our container.
+So I'm just going to come up reboot my sync thing container. Once my container is rebooted,
+I'll select my server IP right click copy then go open up my sync thing server. I'll come back
+into proxmox and I'm going to type in I'm going to type in the command tailscale up.
+This is going to give me a login to authenticate my sync thing server. So I'm going to
+highlight right click left click copy paste that into a browser tab. And it's going to ask me if I
+want to connect this device to my tailnet and going to select connect. If I select visit the
+console, it will show me that the sync thing server has been added to my tailscale tailnet.
+And it's been given a IP address here. So I'm simply just going to copy this IP address.
+And I'm going to refer to my network map here and I'm just going to take the old local IP
+and replace that with my new tailscale IP. Tailscale won't use port 8384. I need to use port 22,000.
+So now that I have my sync thing server added to my tailnet, I'm going to go ahead and add my PC.
+So I'm currently on pause PC. So all I need to do is launch sync thing. That's going to
+automatically open up sync thing on pause PC. And what I need to do now is I need to add pause PC
+to tailscale. So to do that, I head over to tailscale.com forward slash download select
+windows and download tailscale for windows. Go ahead and install tailscale. Then I want you to
+launch the app and sign in with your Google account. It'll ask us if we want to connect the device
+again. I'm going to say connect and then I can visit the console immediately again. So now I can
+see that pause PC has been added to my tailnet and it's got a private IP address here. So I can
+copy this address and paste it onto my network map. And that's now going to be pause PC.
+So now that I have my two devices set up, I'm going to go change some settings on each of the
+sync thing servers. So we start with the sync thing server. What I want to do is I want to come up to
+actions select settings, head over to connections. Now I want to disable natural virtual global discovery,
+enable realing and local discovery. If you want, you can leave local discovery on. But I'm just
+going to disable it completely, going to hit save. And then I'm going to do the same for
+pause PC running on local host, head over to connections and turn off all the connections.
+So the next step is I need to update my remote devices. So I'm going to click my sync thing server
+and I need to update my address here from my local IP. So I'm going to select edit.
+I'm going to come over to advanced and I'm under where it says dynamic. I'm going to change this to
+TCP forward slash forward slash. And this needs to link to my sync thing server on my private
+tailscale IP. So I'll come back here and I'll copy my sync thing tailscale IP. It doesn't map to
+port 8384. So I need to put colon 22,000. Then I just hit save. I'm going to do the same over on my
+sync thing server. So I'll come over to my sync thing server. Go down to pause PC, hit edit,
+navigate to advanced, change my address to TCP colon forward slash forward slash grab my tailscale
+IP for pause PC. Paste that in and then put colon port 22,000 and hit save. To verify my connections
+are working, I'm going to come up to actions and restart my sync thing server. I'm going to do
+the same for pause PC, actions and restart. So the sync thing server has restarted. I can open up
+pause PC and I can now see that my address is resolving my private IP here and it's remapped my
+port 22,000 to 30,108 and I can see that it's up to date. I'll go over to pause PC, drop down my
+sync thing server and I can see that my address is pointing to 22,000 still with my sync thing server
+and it's showing up to date. So the next step is going to be to add my iPhone and iPad to my
+tailnet. So I need to download tailscale on my iPhone as well as my iPad and connect those
+to my tailnet. So let's go do that now. Securing your Apple iPad with tailscale. We're now
+connected to our iPad to our tailnet. So we need to go download tailscale on our iPad. Once tailscale
+is downloaded, we'll tap to open the app and we're going to select get started. Then there'll be
+a notice about privacy and we'll select I understand. This is optional but I like to keep notifications
+off. It's going to tell us it needs to install a VPN configuration in order to connect. So we'll
+tap on install and then it's going to ask us for access to our VPN configurations on our iPad.
+So select allow. So now tailscale which should ask us to sign in. So we'll select continue
+and then go ahead and select your tailscale account that you set up. I'm going to select my Google
+account. So then I get a notification saying that I'm about to connect this device to my tail
+scale tailnet. So I just like connect. Now I can see that I have three devices in my tailnet. I have
+pause PC sync thing server and my new iPad. If I jump back into my admin console, I can see that my
+iPad is showing with an IP address of 100.93.27.88. So let's go update Mobius Pro on our
+iPad. So head back over to Mobius Sync Pro. Then I'm down to sync thing server. Tap on sync
+thing server and select edit. And we need to change our address to our new tailscale IP. So TCP,
+colon, forward slash, forward slash 100 dot 100 dot 119 dot 112 colon 22,000 it's safe. Come up to
+actions, jump into settings, tap on connections and uncheck enable natural virtual global discovery,
+local discovery and enable there and enable reeling select save. So I'm just going to force close
+Mobius Sync Pro and reopen it again and tap the sync thing server and I can see my new private
+tailscale IP sync thing server IP address and it's showing up to date. So now I'm confident that my
+iPad is privately connecting to my sync thing server as long as my tailscale VPN is enabled in the top
+right and you can see it there where it says VPN. If for some reason your VPN becomes disconnected,
+simply open up your tailscale app and hit the connect button or the toggle switch up the top left
+hand side and that will go and reestablish your tailnet private connection to connect to all your
+sync thing devices securing your Apple iPhone with tailscale. Let's now go secure our iPhone with
+tailscale. So we'll head over to the app store and download the tailscale app and we'll open the
+tailscale app and we'll select get started read and accept the privacy notice we'll say no to
+notifications and when it asks us to add our VPN connection we'll tap install and we'll select allow.
+So now I'm going to ask us to sign in and we'll tap continue then I'm going to go ahead and add
+my tailscale account and I'll use my Gmail account again it'll present me with a notice that I'm
+about to connect the device to my tailnet so I'll select connect now I have my iPhone 13 pro
+added to my tailscale admin console and I can see my other devices are showing there as well.
+So we'll go secure maybe a sync on our iPhone so go open up maybe a sync pro on your iPhone
+then I want you to head down to the sync thing server tap on the sync thing server and select
+add it head over to advanced and we want to change the address to match our sync thing server
+so it'll be TCP colon forward slash 100 dot 100 dot 119 dot 112 colon 22,000 scroll down and select save
+then we want to tap on our cogwheel at the top right select settings head over to connections and
+deselect enable natural reversal local discovery global discovery enable relaying select save
+so we'll force close the mobius app and then reopening the app again and then when we scroll down
+and tap on the sync thing server it should show our new private tailscale IP address and we should
+see a green tick to let us know that it's connected successfully we can head over to our sync thing
+server and see that our phone is showing up to date so we'll now update our remote devices on our
+sync thing server I'll start with pause iPhone I'll select edit and then I'm going to jump into my
+admin console for tailscale and I'm going to grab my new private tailnet IP address and I'm
+going to replace the address with TCP colon forward slash forward slash the IP address and I'll go
+ahead and I'll hit save for the iPad I'm going to do the same for the iPad so come down and I'll
+select edit make sure I'm on the advanced tab then I'll come into my tailscale admin console
+copy my IP address type in TCP colon forward slash my private IP address colon 22,000 hit save
+now to test your connection just open up your iPhone and iPad and ensure that tailscale is connected
+and when you go open up mobius sync on those two devices you will see the remote devices showing
+as up to date in your sync thing server troubleshooting sync issues before we wrap up the video I just
+wanted to make a mention that sync thing will create a dot st folder inside of your obsidian
+vote and inside here you'll have a text file that is a folder marker for your sync thing
+folder ID so don't delete this folder also during the setup process just check through your dot
+obsidian folder and ensure that you don't have any dot sync conflict files in your obsidian folder
+so you can see here that during the setup process appearance dot json core plugins dot json
+and workspace stack mobile or encountered some sync conflicts and I recommend downloading and using
+a free application called win merge to just compare your backed up config file to ensure that your
+settings are up to date with your primary json files to find all the sync conflicts in your obsidian
+folder you can just do a little search for sync tag conflict and that's going to bring up all the
+conflicts that were encountered during setup it seems that I've only had sync conflict issues with
+the json configuration files and for full transparency you can see that two plugins were affected
+recent files and commander the rest were conflicts detected in the dot obsidian folder which we've
+already covered so that's how you take control of your obsidian notes and sync them privately
+using sync thing I hope you found this quite helpful and are excited to set up your own self-host
+solutions if you run into any issues setting up sync thing don't hesitate to ask or do my best
+to help please give this video a thumbs up and subscribe to the channel for more tips and tricks
+on obsidian or self-hosting thanks for watching and I'll see you in the next video
+> ```
+
+## 🤖 AI Analysis
+
+This video provides a detailed, step-by-step guide to setting up a fully self-hosted, private, and secure synchronization system for Obsidian notes across Windows and iOS devices. It leverages SyncThing for peer-to-peer file synchronization and Tailscale for creating a secure mesh VPN, eliminating the need for paid subscriptions or reliance on third-party cloud services like iCloud, Google Drive, or Obsidian Sync.
+
+## Brief Summary
+The video demonstrates how to establish a private and secure self-hosted Obsidian sync solution between Windows PCs and iOS devices (iPhone, iPad). It uses SyncThing for direct peer-to-peer file synchronization and Tailscale to create an encrypted mesh VPN, ensuring data privacy and control without relying on traditional cloud services or paid Obsidian Sync subscriptions.
+
+## Best Ideas
+1.  **Data Ownership & Privacy:** The core idea is to completely control your Obsidian notes by self-hosting, avoiding third-party servers and the associated privacy concerns or subscription costs of services like iCloud, Google Drive, or Obsidian Sync.
+2.  **SyncThing for Decentralized Sync:** Utilizing SyncThing enables robust, open-source, peer-to-peer file synchronization, replacing closed-source cloud services with a trustworthy and decentralized solution that keeps your data within your network.
+3.  **Tailscale for Secure Connectivity (Mesh VPN):** Tailscale provides a "zero trust" secure mesh VPN, simplifying secure connections between devices across different networks without complex port forwarding, making the self-hosted setup accessible and safe even for remote access.
+4.  **Cost-Effective Long-Term Solution:** Despite a one-time purchase for Mobius Sync Pro on iOS, the self-hosted setup eliminates recurring monthly fees, proving more economical than Obsidian Sync or expanded iCloud/Google Drive storage over time.
+5.  **Flexible Server Hosting Options:** The solution offers flexibility, allowing users to host the SyncThing server on a dedicated home lab (e.g., Proxmox LXC) or simply on a main Windows PC, catering to different technical comfort levels.
+6.  **Built-in File Versioning:** SyncThing's simple file versioning feature on the server acts as a robust backup, storing multiple versions of files over a specified period (e.g., 30 days, 5 versions), safeguarding against accidental deletions or changes.
+
+## Tools & Resources
+*   **Obsidian:** The primary note-taking application being synchronized.
+*   **SyncThing:** Open-source, peer-to-peer file synchronization software (installed on server, PC, and used by Mobius Sync Pro).
+*   **Mobius Sync Pro:** A paid ($5 one-time) iOS app that leverages the SyncThing engine for secure file synchronization on iPhones and iPads.
+*   **Tailscale:** A mesh VPN service for secure, private connections between devices across different networks.
+*   **Proxmox VE:** (Optional, for advanced users) A virtual environment platform for running and managing virtual machines and containers, used here to host the SyncThing Linux container.
+*   **Linux Container (LXC):** A lightweight virtualization technology used within Proxmox to host SyncThing.
+*   **HP Mini PC:** (Example hardware) A compact computer suitable for running a home lab server.
+*   **WinSCP:** (Optional) An SFTP client for Windows to access and view files on the SyncThing Linux server.
+*   **EZUS:** (Optional) A free backup software for manual backups of Obsidian vaults.
+*   **WinMerge:** (Optional) A free application for comparing files, useful for resolving `.sync-conflict` files during troubleshooting.
+*   **Bash scripts:** Used for easy installation of SyncThing on Proxmox via helper scripts.
+*   **Network Tunneling Configuration:** Specific Linux kernel parameters (`lxc.cgroup2.devices.allow`, `lxc.mount.entry`) required for Tailscale to function within an LXC.
+
+## Key Learning Points
+*   **Self-Hosting Benefits:** Understand the advantages of self-hosting for data control, privacy, and cost savings over proprietary cloud solutions.
+*   **SyncThing Configuration Fundamentals:** Learn how to install SyncThing, set up device IDs, create and share folders (with unique IDs), and configure file versioning.
+*   **iOS Integration with Mobius Sync Pro:** Master the process of linking Mobius Sync Pro to your Obsidian vault on iOS and connecting it to your SyncThing server.
+*   **Tailscale Setup & Security:** Learn to install Tailscale on various platforms (Linux, Windows, iOS), connect devices to your Tailnet, and integrate Tailscale IPs into SyncThing for secure, private communication (e.g., changing SyncThing addresses to `tcp://TAILSCALE_IP:22000` and disabling global/local discovery).
+*   **Troubleshooting Sync Conflicts:** Be aware of the `.st` folder (do not delete) and how to identify and potentially resolve `.sync-conflict` files, particularly in Obsidian's `.obsidian` configuration folder.
+*   **Understanding Network Concepts:** Gain insight into mesh VPNs, peer-to-peer syncing, and the importance of specific port numbers (8384, 22000) for SyncThing communication.
+
+## Key Message
+Take back complete control of your Obsidian notes by building a private, secure, and free (or low one-time cost) self-hosted synchronization system using SyncThing and Tailscale, freeing yourself from reliance on third-party cloud services and their associated privacy and subscription concerns.
+
+## 🛠️ Archive Details
+| Field | Value |
+|-------|-------|
+| **Transcript Status** | Available (Whisper AI) |
+| **Archive Date** | 2025-08-29 |
+| **Processing System** | N8N + Python + Whisper AI + Gemini |
+| **Video Category** | Medium Duration |
+
+
+---
+_📅 Archived: 2025-08-29 | 🤖 Generated by N8N + Whisper AI + Gemini | 📊 Status: Available (Whisper AI)_

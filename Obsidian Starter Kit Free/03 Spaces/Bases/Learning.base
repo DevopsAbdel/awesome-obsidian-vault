@@ -1,0 +1,31 @@
+views:
+  - type: table
+    name: Learning
+    filters:
+      and:
+        - file.folder.contains("03 Spaces/Learning")
+    order:
+      - Date-Created
+      - file.name
+      - file.folder
+      - tags
+    sort:
+      - property: Date-Created
+        direction: DESC
+    columnSize:
+      file.name: 614
+      file.folder: 313
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.folder.contains("03 Spaces/Learning")
+    order:
+      - Date-Created
+      - file.name
+    sort:
+      - property: Date-Created
+        direction: DESC
+    image: note.thumbnail
+    imageFit: contain
+    imageAspectRatio: 0.6

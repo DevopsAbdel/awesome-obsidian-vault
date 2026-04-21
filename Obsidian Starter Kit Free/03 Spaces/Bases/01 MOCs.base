@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Map of Contents
+    filters:
+      and:
+        - file.folder.contains("01 MOCs")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - file.path
+    sort:
+      - property: file.path
+        direction: ASC
+    columnSize:
+      file.name: 162
+      file.ctime: 198
+      file.mtime: 214

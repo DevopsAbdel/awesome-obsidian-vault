@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: CARDS
+    filters:
+      and:
+        - file.folder.contains("02 Cards")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - file.path
+    columnSize:
+      file.name: 162
+      file.ctime: 210
+      file.mtime: 214

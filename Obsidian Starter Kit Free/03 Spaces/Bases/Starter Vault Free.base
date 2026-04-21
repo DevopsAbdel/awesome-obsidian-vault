@@ -1,0 +1,32 @@
+properties:
+  file.name:
+    displayName: List of Bases
+views:
+  - type: cards
+    name: Start Vault Free
+    filters:
+      and:
+        - file.folder == "04 Vault/YouTube"
+    order:
+      - file.name
+    sort:
+      - property: Order
+        direction: ASC
+    image: note.featured_image
+    imageFit: contain
+    imageAspectRatio: 0.6
+    cardSize: 430
+  - type: table
+    name: Start Vault Free Series
+    filters:
+      and:
+        - file.folder == "04 Vault/YouTube"
+    order:
+      - file.name
+    sort:
+      - property: Order
+        direction: ASC
+    image: note.featured_image
+    imageFit: contain
+    imageAspectRatio: 0.6
+    cardSize: 220

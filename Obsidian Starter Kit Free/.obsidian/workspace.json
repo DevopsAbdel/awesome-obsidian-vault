@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "5c8e5ceff5bb50bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd4ddf8daeb1efa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d2f6c734762075b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "START HERE.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "START HERE"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f23a5296fafac93e",
+    "type": "split",
+    "children": [
+      {
+        "id": "68423098322419a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ec3facab638f060",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d697ead5e0d440c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "acaddd6f334db560",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ad95b1b240467e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf4c99a59805e11",
+        "type": "tabs",
+        "dimension": 76.00574712643679,
+        "children": [
+          {
+            "id": "de8e76f7517fa914",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "START HERE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for START HERE"
+            }
+          },
+          {
+            "id": "751b5f4a2766e233",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "START HERE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from START HERE"
+            }
+          },
+          {
+            "id": "2eeaf8b37bd80b9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a555d6458259e6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "START HERE.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of START HERE"
+            }
+          },
+          {
+            "id": "70baa12c6d56e73d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "7f5927df3915087b",
+        "type": "tabs",
+        "dimension": 23.99425287356322,
+        "children": [
+          {
+            "id": "8d65d664f487d122",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1d2f6c734762075b",
+  "lastOpenFiles": [
+    "03 Spaces/Learning/Learning.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2024-10-20 - Stop Wasting Time in Obsidian Mastering YAML properties.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/📽️Obsidian Beginners Guide Getting Started with Obsidian (Part 1 of 4).md",
+    "03 Spaces/Learning/Pauls YouTube Learning",
+    "03 Spaces/Learning/Pauls YouTube Learning/2024-04-24 - Unlock the Power Master Book Notes with Obsidian Canvas.md",
+    "START HERE.md",
+    "03 Spaces/03 Spaces.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2025-09-27 - Self Hosting N8N Proxmox Docker vs VPS (Complete Guide).md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2025-08-29 - YouTube to Obsidian in 3 Steps AutoArchive Everything.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2025-08-18 - N8N to Obsidian in 3 Steps (Stop Overcomplicating It).md",
+    "00 NoteLab/Changelog.md",
+    "03 Spaces/Bases/Learning.base",
+    "03 Spaces/Learning/Pauls YouTube Learning/2025-12-11 - Stop Losing Your AI Conversations (Obsidian n8n Workflow).md",
+    "03 Spaces/Bases/Bases.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2025-02-17 - Obsidian AI Tools Free vs Paid My Ultimate Solution.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2025-02-07 - AI in Obsidian Local LLM Setup Guide in CoPilot.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2025-01-29 - 5 MustHave Obsidian Plugins to Boost Your Workflow.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2025-01-24 - Learn to Use Meta Bind Input Fields in Obsidian.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2025-01-11 - How I Customised My Obsidian Theme with CSS and Style Settings.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2025-01-02 - Unlocking Obsidian v180 New Features Web Viewer Web Clipper.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2024-12-28 - Obsidian for Beginners Inside the Starter Vault PRO.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2024-12-23 - How to Visualise Your Ideas in Obsidian with Excalidraw.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2024-12-15 - Obsidian Modal Forms Plugin How to Transform your Data Entry in Obsidi.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2024-12-07 - My Top 10 Must Have Community Plugins for Obsidian in 2024.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2024-12-04 - Obsidian QuickAdd Plugin How to Create Better Notes in Seconds.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2024-11-24 - Obsidian Dataview Plugin Beginners Guide and Advanced Workflows.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2024-11-17 - How to Create a Directory for any folder in your Obsidian Vault.md",
+    "03 Spaces/Learning/Pauls YouTube Learning/2024-11-11 - Mastering Obsidian Templates My Workflow and Setup Tips.md",
+    "06 Toolkit/Images/thumbnails/resized/f69ae54b3a4f758167da1829a723ece3_86cf658e.webp",
+    "06 Toolkit/Images/thumbnails/external/cfc8974d72c73bd294c54540269221f7.jpg",
+    "06 Toolkit/Images/thumbnails/resized/69b07ab79944e37ba8aff0b5c248d1a5_86cf658e.webp",
+    "06 Toolkit/Images/thumbnails/external/877835f2ae7912c6bcc4d2a7e10d4e1a.jpg",
+    "06 Toolkit/Images/thumbnails/resized/10070bfd470c86fd16546dac2cdf58f2_86cf658e.webp",
+    "06 Toolkit/Images/thumbnails/external/51f3a6cb7cd10c0563ce3d1ee873f9b6.jpg",
+    "06 Toolkit/Images/thumbnails/resized/7fbce4b6b19a21a00a05242d831dfde2_86cf658e.webp",
+    "06 Toolkit/Images/thumbnails/external/4177c42b36a2a3d9db82bcf1ba92df28.jpg",
+    "06 Toolkit/Images/thumbnails/resized/15a3ddf1061d6dd8d26a79a8080c52e6_86cf658e.webp",
+    "06 Toolkit/Images/thumbnails/external/bfff9cac0162e80d243cf62f738993bd.jpg",
+    "06 Toolkit/Images/thumbnails/external",
+    "06 Toolkit/Images/thumbnails/resized",
+    "06 Toolkit/Images/thumbnails/youtube",
+    "06 Toolkit/Images/thumbnails",
+    "03 Spaces/Bases/Starter Vault Free.base",
+    "03 Spaces/Bases/Bases Index.base",
+    "03 Spaces/Bases/06 Toolkit.base",
+    "03 Spaces/Bases/05 Journal.base",
+    "03 Spaces/Canvas Mind Maps/Untitled.canvas"
+  ]
+}

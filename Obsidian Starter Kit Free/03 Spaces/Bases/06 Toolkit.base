@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: ToolKit
+    filters:
+      and:
+        - file.folder.contains("06 Toolkit")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - file.path
+    columnSize:
+      file.name: 162
+      file.ctime: 204
+      file.mtime: 236

@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: NoteLab
+    filters:
+      and:
+        - file.folder.contains("00 NoteLab")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - file.path
+    sort:
+      - property: file.ctime
+        direction: ASC
+    columnSize:
+      file.name: 398
+      file.ctime: 185
+      file.mtime: 212

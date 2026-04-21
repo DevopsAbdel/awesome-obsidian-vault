@@ -1,0 +1,15 @@
+properties:
+  file.name:
+    displayName: List of Bases
+views:
+  - type: table
+    name: Bases
+    filters:
+      and:
+        - file.folder == "03 Spaces/Bases"
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - file.folder
+    sort: []

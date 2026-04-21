@@ -1,0 +1,33 @@
+{
+  "showNotificationsOnUpdate": true,
+  "frontmatterProperty": "featured_image",
+  "thumbnailsFolder": "06 Toolkit\\Images\\thumbnails",
+  "excludedFolders": [
+    "00 NoteLab",
+    "01 MOCs",
+    "02 Cards",
+    "03 Spaces",
+    "05 Journal",
+    "06 Toolkit"
+  ],
+  "createResizedThumbnail": true,
+  "resizedFrontmatterProperty": "thumbnail",
+  "maxResizedWidth": 256,
+  "maxResizedHeight": 144,
+  "fillResizedDimensions": false,
+  "resizedVerticalAlign": "top",
+  "resizedHorizontalAlign": "center",
+  "frontmatterImageSourceProperties": [],
+  "mediaLinkFormat": "plain",
+  "useMediaLinks": false,
+  "onlyUpdateExisting": false,
+  "keepEmptyProperty": true,
+  "preserveTemplateImages": true,
+  "requireExclamationForYouTube": true,
+  "downloadExternalImages": true,
+  "downloadYoutubeThumbnails": true,
+  "debugMode": false,
+  "dryRun": false,
+  "lastShownVersion": "1.2.3",
+  "showAdvancedSettings": true
+}

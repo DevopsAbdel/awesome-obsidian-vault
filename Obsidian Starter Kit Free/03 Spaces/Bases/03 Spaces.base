@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Spaces
+    filters:
+      and:
+        - file.folder.contains("03 Spaces")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - file.path
+    columnSize:
+      file.name: 162
+      file.ctime: 206
+      file.mtime: 198
